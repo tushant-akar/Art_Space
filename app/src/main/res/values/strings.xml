@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork_title_1">Sailing Under the Bridge</string>
+    <string name="artwork_title_2">Still Life of Blue Rose and Other Flowers</string>
+    <string name="artist_name_1">Kat Kuan</string>
+    <string name="year_1">(2017)</string>
+    <string name="artist_name_2">Owen Scott</string>
+    <string name="year_2">(2021)</string>
+    <string name="contentImage_1">Bridge</string>
+    <string name="contentImage_2">Flower Vase</string>
+    <string name="prev_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
